@@ -1,4 +1,4 @@
-To visit the website : 
+To visit the website : https://nikagour.github.io/restaurant-css-framework/
 
 Difficulties : 
 - Footer doesn't have the same properties on every page. I didn't have the time to find the solution. It worked properly only on the first page.
